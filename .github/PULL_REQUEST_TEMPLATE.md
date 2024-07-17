@@ -1,27 +1,60 @@
-**Description**
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+## PR 체크리스트
 
-Fixes # (issue)
+PR을 제출하기 전에 아래의 체크리스트를 확인해주세요:
 
-**Type of change**
-Please delete options that are not relevant.
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+(전부 확인 되셨다면 PR 체크리스트 항목은 지운 뒤 제출해 주세요)
 
-**How Has This Been Tested?**
-Please describe the tests that you ran to verify your changes. Please also note any relevant details for your test configuration.
+- [ ] PR 제목이 명확하고 간결한지 확인했습니다.
+- [ ] 관련된 모든 이슈를 참조했습니다 (예: `#123`).
+- [ ] 코드 변경 사항이 프로젝트의 가이드라인에 맞는지 확인했습니다.
+- [ ] 모든 새롭게 추가된 함수에 대한 테스트를 추가했습니다.
+- [ ] 변경 사항이 문서화되었는지 확인했습니다.
+- [ ] 각 항목별 설명을 지운 후 작성하였습니다.
 
-- [ ] Test A
-- [ ] Test B
+## PR 유형
 
-**Checklist:**
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+어떤 종류의 변경 사항인가요? (해당 사항에 모두 체크)
+
+- [ ] 버그 수정 (기존 문제를 수정)
+- [ ] 기능 추가 (새로운 기능)
+- [ ] 코드 스타일 수정 (포맷팅, 세미콜론 수정 등, 논리적 변경 없음)
+- [ ] 리팩토링 (기능 수정 없이 코드 리팩토링)
+- [ ] 문서 수정 (문서 추가 또는 수정)
+- [ ] 테스트 추가 (기존 코드에 대한 테스트 추가)
+- [ ] 빌드 또는 CI 관련 변경 사항
+
+## PR 설명
+
+변경 사항에 대해 자세히 설명해주세요. 무엇이 변경되었는지, 왜 이러한 변경이 필요한지 설명합니다.
+
+### 현재 동작
+
+현재 애플리케이션의 동작 방식에 대해 설명합니다.
+
+### 새로운 동작
+
+변경 후 애플리케이션의 동작 방식을 설명합니다.
+
+### 변경 이유
+
+이 변경이 필요한 이유와 해결하려는 문제를 설명합니다.
+
+## 변경 사항 (선택)
+
+변경된 코드의 요약과 중요 부분을 설명해주세요.
+
+```typescript
+(여기에 코드 샘플을 추가할 수 있습니다)
+```
+
+## 이슈
+
+해당 PR과 연관된 이슈를 아래와 같이 전부 작성해주세요
+
+#<이슈 번호>
+
+만약 PR이 병합될 때 함께 닫고자 하는 이슈는 아래와 같이 작성해주세요
+
+예: Resolves #<이슈 번호>
+
+
