@@ -19,7 +19,7 @@
   
 | **🎃Hardy** | **🐷Mae** | 
 | :------: |  :------: | 
-| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/>  [![hardy github](https://img.shields.io/badge/Hardy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangyoulsagong)| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/> [![mae github](https://img.shields.io/badge/Mae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardlife0) |
+| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/hardy.png" height=150 width=150> <br/>  [![hardy github](https://img.shields.io/badge/Hardy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangyoulsagong)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/mae.png" height=150 width=150> <br/> [![mae github](https://img.shields.io/badge/Mae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardlife0) |
 
 </div>
 
@@ -34,7 +34,7 @@
   
 | **🦊Sean** | **👓Tony** | 
 | :------: |  :------: | 
-| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/>  [![seab github](https://img.shields.io/badge/Sean-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timepresent95)| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/> [![tony github](https://img.shields.io/badge/Tony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PokingTeemo) |
+| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/sean.png" height=150 width=150> <br/>  [![seab github](https://img.shields.io/badge/Sean-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timepresent95)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/tony.png" height=150 width=150> <br/> [![tony github](https://img.shields.io/badge/Tony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PokingTeemo) |
 
 </div>
 
@@ -48,6 +48,6 @@
   
 | **🐯Aiden** | **🐱Luna** | 
 | :------: |  :------: | 
-| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/>  [![aiden github](https://img.shields.io/badge/Aiden-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanMulBit)| <img src="http://via.placeholder.com/150x150" height=150 width=150> <br/> [![luna github](https://img.shields.io/badge/Luna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoiJiyeon) |
+| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/aiden.png" height=150 width=150> <br/>  [![aiden github](https://img.shields.io/badge/Aiden-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanMulBit)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/luna.png" height=150 width=150> <br/> [![luna github](https://img.shields.io/badge/Luna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoiJiyeon) |
 
 </div>
