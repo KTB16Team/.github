@@ -1,3 +1,4 @@
+적용 예시는 [여기](https://github.com/ktb-23/.github/blob/main/collaboration-guidelines/example/commit-message-convention.md)서 확인 가능합니다
 
 # 목표
 
@@ -13,6 +14,7 @@ GitHub 및 다양한 git 도구에서 메시지를 가독성 향상
 <type>: <subject>
 <BLANK LINE>
 <description> (선택)
+<BLANK LINE> (description 작성시)
 <referencing issue number>
 <BLANK LINE>
 <breaking change> (선택)
@@ -54,7 +56,7 @@ GitHub 및 다양한 git 도구에서 메시지를 가독성 향상
 변경에 대한 매우 짧은 설명입니다.
 
 - 문법적으로 좋은 문장을 작성하는것보다 가독성에 초점
-- 끝에 마침표(.) 사용하지 않기 등
+- 예: 끝에 마침표(.) 사용하지 않기 등
 
 <br/>
 
