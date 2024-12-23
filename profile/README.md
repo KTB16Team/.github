@@ -26,7 +26,7 @@
 
 ---
 
-## 지원기능
+## 지원 기능
 
 - **로그인 및 회원가입**: 사용자 정보를 안전하게 관리하며 간편한 로그인 기능을 제공합니다.
 - **음성 인식 및 텍스트 변환**: 음성으로 대화한 내용을 자동으로 텍스트로 변환하여, 대화 분석의 기반을 마련합니다.
@@ -36,25 +36,15 @@
   
 ---
 
-## 기술 스택
+## 📚 기술 스택
 
-**FE**
+| **-** | **Technologies**                                                                                                                                                                                                                  |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> |
+| **Backend**  | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> |
+| **AI**       | <img src="https://img.shields.io/badge/Generative AI-FF7300?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/GPT-4.0-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-FFCC00?style=for-the-badge&logo=langchain&logoColor=black">                                                                                                                           |
+| **Cloud**    | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white"> <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elasticstack&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/Node Exporter-000000?style=for-the-badge&logo=prometheus&logoColor=white"> |
 
-- html, css, js, ts, vite, React, Tanstack Query, three.js, tailwind css
-
-**BE**
-
-- Spring Boot, Spring Security, Spring Jpa, Batch, Redis, PostgreSQL, mySQL, gradle, java
-
-**AI**
-
-- 생성형 AI 모델
-  - GPT 4o
-  - Langchain
-
-**인프라**
-
--
  
 ---
 
